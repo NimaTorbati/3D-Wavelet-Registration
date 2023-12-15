@@ -1,7 +1,7 @@
 # 3D-Wavelet-Registration
 3D image registration using wavelets.
 
-Applied on public ISBR brain datasets.
+Applied on public ISBR MRI brain datasets.
 
 ## Run ful_par_run.m
 
