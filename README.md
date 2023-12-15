@@ -1,5 +1,5 @@
 # 3D-Wavelet-Registration
-3D registration using wavelets.
+3D image registration using wavelets.
 
 Applied on public ISBR brain datasets.
 
