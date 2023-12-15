@@ -1,3 +1,8 @@
 # 3D-Wavelet-Registration
 3D registration using wavelets.
-Run ful_par_run.m
+
+Applied on public ISBR brain datasets.
+
+## Run ful_par_run.m
+
+The performance of different wavelet basis functions, similarity measures, and regularization terms have been studied.
